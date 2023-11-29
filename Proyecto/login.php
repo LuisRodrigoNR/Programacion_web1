@@ -7,7 +7,7 @@
     <meta name="description" content="Pagina para registro ">
     <meta name="keywords" content="HTML, Basico, Curso, UNAM">
     <meta name="author" content="Rodrigo Nieto">
-    <a href="estilos.css"></a>
+    <link rel="stylesheet" href="estilos.css">
     <title>Login</title>
 </head>
 <body>

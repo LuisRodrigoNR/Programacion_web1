@@ -1,3 +1,4 @@
+
 .ventana{
     border: 10px solid grey;
     box-shadow: 5px 5px 5px #34495e;
@@ -10,4 +11,5 @@
     padding: 10px;
     padding-top: 30px;
     padding-bottom: 30px;
+    background-color: aqua;
 }
